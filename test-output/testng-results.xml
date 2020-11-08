@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-06T19:44:43 IST" name="Default suite" finished-at="2020-11-06T19:47:48 IST" duration-ms="185471">
+    <groups>
+    </groups>
+    <test started-at="2020-11-06T19:44:43 IST" name="Default test" finished-at="2020-11-06T19:47:48 IST" duration-ms="185471">
+      <class name="com.ust.assignments.pomassignmentsTest.AmazonPOMTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:44:43 IST" name="init" finished-at="2020-11-06T19:45:09 IST" duration-ms="26056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:45:09 IST" name="login" finished-at="2020-11-06T19:45:21 IST" duration-ms="11776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="pageSelection()[pri:1, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:45:21 IST" name="pageSelection" finished-at="2020-11-06T19:46:02 IST" duration-ms="41541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSelection -->
+        <test-method signature="SelectingItem()[pri:2, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:46:02 IST" name="SelectingItem" finished-at="2020-11-06T19:46:24 IST" duration-ms="21245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectingItem -->
+        <test-method signature="AddToCartItem()[pri:3, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:46:24 IST" name="AddToCartItem" finished-at="2020-11-06T19:46:49 IST" duration-ms="25252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCartItem -->
+        <test-method signature="categorySelectionSecondItem()[pri:4, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:46:49 IST" name="categorySelectionSecondItem" finished-at="2020-11-06T19:47:05 IST" duration-ms="15756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categorySelectionSecondItem -->
+        <test-method signature="SelectionSecondItem()[pri:5, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:47:05 IST" name="SelectionSecondItem" finished-at="2020-11-06T19:47:30 IST" duration-ms="24980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectionSecondItem -->
+        <test-method signature="signoutAndSignInAgain()[pri:6, instance:com.ust.assignments.pomassignmentsTest.AmazonPOMTest@5a45133e]" started-at="2020-11-06T19:47:30 IST" name="signoutAndSignInAgain" finished-at="2020-11-06T19:47:48 IST" duration-ms="18727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoutAndSignInAgain -->
+      </class> <!-- com.ust.assignments.pomassignmentsTest.AmazonPOMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
